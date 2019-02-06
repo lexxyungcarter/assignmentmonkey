@@ -7,6 +7,9 @@ This document will try and elucidate further on the coding practices used, plugi
 # Pricing
 ## Current Valuation
 
+The system is currently priced at roughly **$3,000**. This is not inclusive of other
+expenses such as hiring a developer (should you wish), setting up the system inside your server, to list but a few.
+
 ## Metrics involved in valuation
 
 ## Terms and Support for Purchase
